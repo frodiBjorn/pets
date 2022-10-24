@@ -4,4 +4,4 @@
 
 :page_facing_up: INSTUCTION: Just drag the the card the right section
 
-:eyes: DEPLOY: https://frodibjorn.github.io/pets/01-drag-n-drop/
+:eyes: DEPLOY: https://frodibjorn.github.io/pets/02-drag-n-drop/
